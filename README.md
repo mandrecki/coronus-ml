@@ -13,7 +13,7 @@ git clone git@github.com:mandrecki/coronus.git
 cd coronus-ml
 virtualenv --python=/usr/bin/python3.8 venv
 source venv/bin/activate
-pip install ../coronus
+pip install -e ../coronus
 pip install -e .
 ```
 4. Configure git (you can add `--global` if you would like to set this for your
