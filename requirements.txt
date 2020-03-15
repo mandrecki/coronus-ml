@@ -1,4 +1,4 @@
-coronus_web
+coronus-web
 jupyter
 seaborn
 sklearn
