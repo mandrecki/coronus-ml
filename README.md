@@ -25,6 +25,12 @@ git config pull.rebase true
 git config branch.autosetuprebase always
 ```
 
+5. Do your analysis in a Jupyter notebook and move useful functions into package
+```
+cd notebooks
+jupyter notebook
+```
+
 ## Devel process
 
 (needs polishing...)
